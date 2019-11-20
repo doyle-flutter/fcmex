@@ -1,2 +1,4 @@
 # fcmex
-fcm
+- Firebase db
+- Firebase Functions
+- NodeJs
